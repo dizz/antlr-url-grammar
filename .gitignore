@@ -21,3 +21,4 @@ src/java/org/jingguo/url/URLLexer.java
 src/java/org/jingguo/url/URLParser.java
 
 !.gitignore
+.DS_Store
